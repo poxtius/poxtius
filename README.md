@@ -37,7 +37,6 @@
 
 <p>
   <!-- Lenguajes -->
-  <img src="https://img.shields.io/badge/C/C++-00599C?logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white" />
@@ -46,13 +45,8 @@
   <img src="https://img.shields.io/badge/NB--IoT-6C3?logo=signal&logoColor=white" />
   <img src="https://img.shields.io/badge/I2C/SPI/UART-333?logo=protocols&logoColor=white" />
   <img src="https://img.shields.io/badge/Sensores-PT100%20%7C%20HDC1080%20%7C%20LD2410B-555" />
-  <!-- QA/Metrología -->
-  <img src="https://img.shields.io/badge/Metrolog%C3%ADa-PC--DMIS%20%7C%20Touch%20DMIS-444" />
   <!-- Datos / MS 365 -->
   <img src="https://img.shields.io/badge/Power%20BI-FFC107?logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?logo=powerapps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?logo=powerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?logo=sharepoint&logoColor=white" />
 </p>
 
 ---
