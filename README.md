@@ -26,9 +26,6 @@
 
 - 🏫 Diseñando retos didácticos de **Fabrikazio Adimentsua** (digital twin de torno, MES, OFs encadenadas, trazabilidad, KPIs).  
 - 🧰 Proyecto **Retrobizi**: _retrofitting_ de máquinas para alargar su vida útil.  
-- 🧪 **RehaBar**: dispositivo sensorizado para barras de rehabilitación (fuerza/tiempo de uso + analítica).  
-- 🧠 **IAProtect Entry**: mejora de seguridad industrial combinando visión e identificación de EPI.  
-- ⚡ **Baterías de Gravedad**: prototipo didáctico con transmisión mecánica y control.  
 - 📡 Telemetría con **Arduino MKR / ESP32** (MKR WAN 1310, NB1500) y sensores (PT100, HLK-LD2410B).
 
 ---
@@ -92,13 +89,13 @@
 > Sustituye `poxtius` por tu usuario real de GitHub.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=poxtius&show_icons=true&hide_title=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poxtius" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poxtius&layout=compact" alt="Top Langs" />
 </p>
 
 ---
