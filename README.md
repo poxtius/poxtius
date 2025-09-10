@@ -3,24 +3,22 @@
   <a href="https://www.linkedin.com/in/josemafernandez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Josema%20Fern%C3%A1ndez-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:<tu_email>@<dominio>.com" target="_blank">
+  <a href="mailto:fernandezjm@lasalleberrozpe.eus" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <h1 align="center">Hola, soy Josema 👋</h1>
-<h3 align="center">FP teacher · Ingeniería / Metrología · IoT & Automatización · Formación & Coaching</h3>
+<h3 align="center">FP teacher · Ingeniería · IoT & Automatización · Formación </h3>
 
 ---
 
 ### Sobre mí
 
-- 🎓 Docente de **Formación Profesional** (Mecanizado / Programación de Fabricación Mecánica) en Gipuzkoa.  
-- 🧪 Técnico de **calidad y metrología** (PC-DMIS / Touch DMIS / trazabilidad).  
+- 🎓 Docente de **Formación Profesional** (Electronica) en La Salle Berrozpe Gipuzkoa.  
 - 🔧 Desarrollo proyectos **IoT/Edge** con Arduino/ESP32 (bajo consumo, LoRa/WAN, NB-IoT, sensores industriales).  
 - 🧠 Diseño **procesos formativos** y aplico **coaching** para acompañar a personas y equipos.  
 - 🌱 Interés en **energía sostenible** (baterías de gravedad, optimización energética) y **digitalización industrial** (MES, trazabilidad, KPIs).  
-- 🚴‍♂️ Aficionado al ciclismo y a crear prototipos útiles para el aula y la empresa.
 
 ---
 
@@ -91,14 +89,13 @@
 ### Contacto
 
 - 💼 LinkedIn: **/in/josemafernandez**  
-- 📧 Email: <tu_email>@<dominio>.com  
-- 🗓️ Para docencia/charlas: envía propuesta y disponibilidad.
+- 📧 Email: fernandezjm@lasalleberrozpe.eus  
 
 ---
 
 ### Métricas (auto-generadas)
 
-> Sustituye `YOUR_GITHUB_USERNAME` por tu usuario real de GitHub.
+> Sustituye `poxtius` por tu usuario real de GitHub.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true" alt="GitHub Stats" />
