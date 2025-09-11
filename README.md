@@ -17,7 +17,6 @@
 
 - 🎓 Docente de **Formación Profesional** (Electronica) en La Salle Berrozpe Gipuzkoa.  
 - 🔧 Desarrollo proyectos **IoT/Edge** con Arduino/ESP32 (bajo consumo, LoRa/WAN, NB-IoT, sensores industriales).  
-- 🧠 Diseño **procesos formativos** y aplico **coaching** para acompañar a personas y equipos.  
 - 🌱 Interés en **energía sostenible** (baterías de gravedad, optimización energética) y **digitalización industrial** (MES, trazabilidad, KPIs).  
 
 ---
@@ -48,14 +47,15 @@
 
 ---
 
-### Proyectos destacados
+### Proyectos en la actualidad
 
-- **RehaBar** — Sensorización de barras de rehabilitación con medición de fuerza y tiempo de uso, analítica y enfoque open-source.  
-- **IAProtect Entry** — Detección híbrida (visión + electromagnética) y verificación de EPI en entorno real de taller.  
-- **Batería de gravedad** — Prototipo didáctico con tren de engranajes, control PLC/MCU y tablero de KPIs.  
-- **Digital twin de torno + MES** — OFs encadenadas (producción → calidad → cierre), trazabilidad por pieza y panel de indicadores.  
-- **Telemetría compostera** — Lectura de **PT100** industrial (hasta 80 °C) con envío de datos vía SIM a Excel/Power BI.  
-- **Monitor de máquina** — Sensor de **corriente** para registrar tiempo efectivo de uso (torno, fresadora, CNC).
+- **Miembro del Área de especialización de Robotica Autónoma en Tknika** 
+    Ahora mismo trabajando en los siguientes ambitos:
+        -. ROS
+        -. Robot Soccer Kit
+        -. Soluciones de Intralogistica
+        -. Navegación Autonoma.
+  
 
 > ¿Quieres ver código o documentación? Mira mis repos públicos y proyectos fijados más abajo.
 
@@ -65,15 +65,6 @@
 
 - Diseño de **retos por competencias** en FP (Mantenimiento Electrónico, Mecanizado, Administración y Finanzas).  
 - Integración de **sostenibilidad**, **seguridad y salud**, y **emprendimiento** en los módulos.  
-- Materiales sobre **engranajes**, **metrología**, **automatización** y **IoT** para aula y empresa.
-
----
-
-### Cómo colaborar
-
-- Abro **issues** para discusión (mejor si añades contexto y capturas).  
-- Acepto **PRs** con: descripción clara, cambios atómicos y pruebas mínimas.  
-- Si te interesa un proyecto para **aula/empresa**, propón un _fork_ didáctico.
 
 ---
 
