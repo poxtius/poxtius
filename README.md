@@ -50,11 +50,11 @@
 ### Proyectos en la actualidad
 
 - **Miembro del Área de especialización de Robotica Autónoma en Tknika** Ahora mismo trabajando en los siguientes ambitos:
-
-- ROS
-- Robot Soccer Kit
-- Soluciones de Intralogistica
-- Navegación Autonoma.
+ 
+  - ROS
+  - Robot Soccer Kit
+  - Soluciones de Intralogistica
+  - Navegación Autonoma
 
 ---
 
