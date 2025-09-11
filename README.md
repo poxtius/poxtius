@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h1 align="center">Hola, soy Josema 👋</h1>
+<h1 align="center">Hola, soy Josema Fernández 👋</h1>
 <h3 align="center">FP teacher · Ingeniería · IoT & Automatización · Formación </h3>
 
 ---
