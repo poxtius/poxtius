@@ -50,7 +50,7 @@
 ### Proyectos en la actualidad
 
 - **Miembro del Área de especialización de Robotica Autónoma en Tknika** Ahora mismo trabajando en los siguientes ambitos:
- 
+
   - ROS
   - Robot Soccer Kit
   - Soluciones de Intralogistica
@@ -60,7 +60,7 @@
 
 ### Docencia & contenidos
 
-- Diseño de **retos por competencias** en FP (Mantenimiento Electrónico, Mecanizado, Administración y Finanzas).  
+- Diseño de **retos por competencias** en FP (Mantenimiento Electrónico y Fabricación Avanzada).  
 - Integración de **sostenibilidad**, **seguridad y salud**, y **emprendimiento** en los módulos.  
 
 ---
@@ -74,7 +74,6 @@
 
 ### Métricas (auto-generadas)
 
-> Sustituye `poxtius` por tu usuario real de GitHub.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=poxtius&show_icons=true&hide_title=true" alt="GitHub Stats" />
